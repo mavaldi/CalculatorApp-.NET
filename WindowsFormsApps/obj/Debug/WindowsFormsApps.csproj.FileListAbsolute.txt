@@ -1,0 +1,10 @@
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\bin\Debug\WindowsFormsApps.exe.config
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\bin\Debug\WindowsFormsApps.exe
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\bin\Debug\WindowsFormsApps.pdb
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.AssemblyReference.cache
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.Form1.resources
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.Properties.Resources.resources
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.GenerateResource.cache
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.CoreCompileInputs.cache
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.exe
+C:\Users\maval\source\repos\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.pdb
